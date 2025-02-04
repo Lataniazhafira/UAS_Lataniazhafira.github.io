@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Mahasiswa
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Latania Zhafira
 
 # Full name (for SEO)
 first_name: Latania 
@@ -56,12 +56,7 @@ education:
     institution: MA Al Mu'min Muhammadiyah Tembarak Temanggung
     date_start: 2017-08-12
     date_end: 2020-12-31
-     Courses included:
-      - Biologi
-      - Kimia
-      - Fisika
-      - Matematika
-    
+     
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -90,7 +85,7 @@ education:
       - Pemograman Berorientasi projek
   
 work:
-  - position: 
+  - position: Mahasiswa
     company_name: GenCoin
     company_url: ''
     company_logo: ''
@@ -189,4 +184,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Latania Zhafira adalah seorang back-end developer untuk gaming
