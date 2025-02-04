@@ -33,16 +33,12 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - Machine Learning
@@ -84,7 +80,7 @@ education:
   
 work:
   - position: Mahasiswa
-    company_name: GenCoin
+    company_name: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -127,18 +123,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Bermain Game
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: 🎮
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Memasak
         description: ''
         percent: 80
-        icon: camera
+        icon: wajan
 
 languages:
   - name: Indonesia
@@ -153,13 +149,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Penghargaan Ranking 16 Besar Wirausaha Merdeka
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+    date: '2023-12-04'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Kelompok kami berhasil menciptakan inovasi produk makanan berupa kebab yang dicampur dengan cita rasa khas nusantara yang menjadi daya tarik tersendiri oleh konsumen. Dari banyaknya kelompok kami berhasil sampai ke ranking 16 besar produk terbaik.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
@@ -182,4 +178,4 @@ awards:
 
 ## About Me
 
-Latania Zhafira adalah seorang mahasiswa di Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang. Bercita - cita menjadi seorang Programer. Sekarang berada di akhir semester 5.
+Latania Zhafira adalah seorang mahasiswa di Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang. Bercita - cita menjadi seorang Programer. Sekarang berada di akhir semester 5. 
