@@ -19,7 +19,7 @@ author_notes:
   - 'Bendahara'
   - 'Anggota'
   - 'Anggota'
-  - 'Anggota
+  - 'Anggota'
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
