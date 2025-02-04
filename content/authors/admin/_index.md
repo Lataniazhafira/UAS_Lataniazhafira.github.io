@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Mahasiswa
+title: Latania Zhafira
 
 # Name pronunciation (optional)
-name_pronunciation: Latania Zhafira
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Latania 
@@ -11,7 +11,7 @@ last_name: Zhafira
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🐨
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Mahasiswa
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: RPL
     url: https://openai.com/
 
 # Social network links
@@ -39,8 +39,6 @@ profiles:
     url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -143,12 +141,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Indonesia
     percent: 100
-  - name: Chinese
+  - name: Inggris
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Jepang
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -184,4 +182,4 @@ awards:
 
 ## About Me
 
-Latania Zhafira adalah seorang back-end developer untuk gaming
+Latania Zhafira adalah seorang mahasiswa di Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang. Bercita - cita menjadi seorang Programer. Sekarang berada di akhir semester 5.
