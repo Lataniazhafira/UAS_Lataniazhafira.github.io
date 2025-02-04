@@ -1,17 +1,25 @@
 ---
-title: 'An example conference paper'
+title: 'Perancangan Aplikasi Loundry-In Untuk Pelayanan Pelanggan Berbasis Android'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Maulani Citra Pandini
+  - M.Yanfaunnas
+  - Latania Zhafira
+  - Adi Fajar Saputra
+  - David Setiawan
+  
+  
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'Ketua'
+  - 'Sekretaris'
+  - 'Bendahara'
+  - 'Anggota'
+  - 'Anggota'
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
@@ -28,7 +36,10 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Perkembangan dunia di era milenium dan era globalisasi ini sangat pesat, terutama di bidang teknologi informasi. Tingkat kecepatan dan ketepatan informasi merupakan hal yang sangat besar oleh karena itu harus didukung teknologi informasi yang memadai. Teknologi juga membantu kehidupan manusia dari fase yang sulit menjadi mudah, serta melahirkan sebuah cara baru manusia dalam melakukan aktivitas. Kemajuan teknologi berdampak pada seorang individu menjadi ketergantungan karena terlena dengan fitur canggih yang diberikan oleh teknologi sehingga membuat seseorang malas melakukan sesuatu dan membuat badan kurang gerak. Hal ini tentu menjadi masalah dari segi gaya hidup masyarakat yang sudah tertanam menjadi sebuah pola kebiasaan pada era society 5.0 yang serba instan, tentunya berdampak pada pengurangan aktivitas fisik atau gerak yang membuat individu tak perlu berpindah dari zona nyaman.
+Selain itu, dengan semakin padat dan dinamisnya kinerja seseorang, menuntut untuk dapat mengatur waktunya sebaik mungkin. Dalam hal ini, seseorang harus memiliki kemampuan manajerial dalam membagi waktunya, apalagi untuk hal-hal yang dianggap sepele namun berpengaruh besar. Aktivitas yang kecil namun membawa pengaruh besar tersebut yaitu mencuci pakaian. Tidak banyak orang di kota besar yang bisa membagi waktunya untuk mencuci pakaiannya sendiri, sejak pagi sudah bergelut dengan pekerjaannya, pulang dari kantor larut malam dan hanya ada satu di benak pikiran yaitu istirahat. Selain pekerja, banyak para pelajar atau anak kos yang tidak dapat menyisihkan waktunya untuk mencuci pakaian sehingga mereka memilih jasa laundry untuk mengatasi masalah tersebut.
+
+
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

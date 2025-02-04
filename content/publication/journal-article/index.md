@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Analisis Kebutuhan Perangkat Lunak"
 authors:
 - admin
 - Robert Ford
