@@ -6,20 +6,20 @@ title: 'Perancangan Aplikasi Loundry-In Untuk Pelayanan Pelanggan Berbasis Andro
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Maulani Citra Pandini
-  - M.Yanfaunnas
   - Latania Zhafira
   - Adi Fajar Saputra
   - David Setiawan
+  - M.Yanfaunnas
   
   
 
 # Author notes (optional)
 author_notes:
   - 'Ketua'
-  - 'Sekretaris'
   - 'Bendahara'
   - 'Anggota'
   - 'Anggota'
+  - 'Anggota
 
 date: '2013-07-01T00:00:00Z'
 doi: ''

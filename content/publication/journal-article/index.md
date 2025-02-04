@@ -1,11 +1,19 @@
 ---
-title: "Analisis Kebutuhan Perangkat Lunak"
+title: "Modul Algoritma Pemrograman Python"
 authors:
-- admin
-- Robert Ford
+- Maulany Citra Pandini
+- M.Yanfaunnas
+- Adi Fajar Saputra
+- David Setiawan
+- Latania Zhafira
+
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Ketua"
+- "Sekretaris"
+- "Anggota"
+- "Anggota"
+- "Anggota"
+
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -21,7 +29,7 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Bagi para pemula yang ingin mempelajari algoritma dan dasar-dasar pemrograman menggunakan bahasa Python, buku modul “Algoritma Pemrograman Python” ini menjadi salah satu sumber belajar yang penting. Saat ini, python menjadi salah satu bahasa pemrograman yang populer digunakan dan mudah dipelajari oleh pemula. Kemajuan teknologi dan era digital saat ini menjadi salah satu alasan pentingnya untuk mempelajari tentang algoritma dan dasar-dasar pemrograman. Menjadi seorang programmer menjadi salah satu impian banyak orang pada era ini, dan buku modul “Algoritma Pemrograman Python” ini menjadi solusi dalam membantu memahami dan mempelajari dasar-dasar pemrograman seperti algoritma.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
