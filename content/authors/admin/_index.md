@@ -52,7 +52,7 @@ education:
     date_end: 2020-12-31
      
     button:
-      text: 'Read Thesis'
+      text: 'Study Tentang Minat Santriwati Terhadap Program Teknosains 2018/2019 '
       url: 'https://example.com'
   - area: Rekayasa Perangkat Lunak
     institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
@@ -75,32 +75,8 @@ education:
       GPA: 3.4/4.0
       
       Courses included:
-      - Analisis Data
-      - Pemograman Berorientasi projek
-  
-work:
-  - position: Mahasiswa
-    company_name: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Analisis Pasar
+      - Data Maining
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -156,16 +132,6 @@ awards:
     icon: coursera
     summary: |
       Kelompok kami berhasil menciptakan inovasi produk makanan berupa kebab yang dicampur dengan cita rasa khas nusantara yang menjadi daya tarik tersendiri oleh konsumen. Dari banyaknya kelompok kami berhasil sampai ke ranking 16 besar produk terbaik.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
