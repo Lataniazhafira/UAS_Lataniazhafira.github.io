@@ -52,39 +52,45 @@ interests:
   - Cyber Security
 
 education:
-  - area: SMA
+  - area: Teknosains
     institution: MA Al Mu'min Muhammadiyah Tembarak Temanggung
     date_start: 2017-08-12
     date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+     Courses included:
+      - Biologi
+      - Kimia
+      - Fisika
+      - Matematika
+    
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Rekayasa Perangkat Lunak
+    institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
+    date_start: 2022-01-01
+    date_end: 2026-08-31
     summary: |
       GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Analisis Data
+      - Pemograman Berorientasi Projek
+      - Kecerdasan Buatan
+      - Machine Learning
+
+  - area: Wirausaha Merdeka
+    institution: Universitas Dian Nuswantoro 
+    date_start: 2023-07-07
+    date_end: 2023-12-31
     summary: |
       GPA: 3.4/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Analisis Data
+      - Pemograman Berorientasi projek
+  
 work:
-  - position: Director of Cloud Infrastructure
+  - position: 
     company_name: GenCoin
     company_url: ''
     company_logo: ''
