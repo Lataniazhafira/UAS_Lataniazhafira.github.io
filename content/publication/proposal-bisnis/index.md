@@ -39,7 +39,7 @@ publication_short: In *ICW*
 abstract: Perkembangan dunia di era milenium dan era globalisasi ini sangat pesat, terutama di bidang teknologi informasi. Tingkat kecepatan dan ketepatan informasi merupakan hal yang sangat besar oleh karena itu harus didukung teknologi informasi yang memadai. Teknologi juga membantu kehidupan manusia dari fase yang sulit menjadi mudah, serta melahirkan sebuah cara baru manusia dalam melakukan aktivitas. Kemajuan teknologi berdampak pada seorang individu menjadi ketergantungan karena terlena dengan fitur canggih yang diberikan oleh teknologi sehingga membuat seseorang malas melakukan sesuatu dan membuat badan kurang gerak. Hal ini tentu menjadi masalah dari segi gaya hidup masyarakat yang sudah tertanam menjadi sebuah pola kebiasaan pada era society 5.0 yang serba instan, tentunya berdampak pada pengurangan aktivitas fisik atau gerak yang membuat individu tak perlu berpindah dari zona nyaman.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Perkembangan di era teknologi memberikan ide untuk mengembangkan bisnis loundry manual menjadi loundry berbasis aplikasi.
 
 tags:
   - Large Language Models
