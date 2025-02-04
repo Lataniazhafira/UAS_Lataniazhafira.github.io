@@ -59,7 +59,7 @@ education:
     date_start: 2022-01-01
     date_end: 2026-08-31
     summary: |
-      GPA: 3.8/4.0
+      IPK: 3.8/4.0
 
       Courses included:
       - Analisis Data
@@ -72,7 +72,7 @@ education:
     date_start: 2023-07-07
     date_end: 2023-12-31
     summary: |
-      GPA: 3.4/4.0
+      IPK: 3.4/4.0
       
       Courses included:
       - Analisis Pasar
