@@ -20,7 +20,7 @@ publication_short: ""
 abstract: Program Teknosains merupakan program yang baru dikeluarkan di tahun 2017. Program yang menggabungkan antara teknologi dan sains. Terjadi kelonjakan peminatan minat pada program teknosains di tahun ke-2.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Program Teknosains merupakan program yang baru dikeluarkan di tahun 2017. Program yang menggabungkan antara teknologi dan sains. Terjadi kelonjakan peminatan minat pada program teknosains di tahun ke-2.
 
 tags:
 - Large Language Models
